@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  category: MyString
+  address: MyString
+  openhour: 2021-10-13 12:09:36
+  closehour: 2021-10-13 12:09:36
+  price: 1
+  status: 1
+
+two:
+  name: MyString
+  category: MyString
+  address: MyString
+  openhour: 2021-10-13 12:09:36
+  closehour: 2021-10-13 12:09:36
+  price: 1
+  status: 1
